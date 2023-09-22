@@ -40,7 +40,7 @@
     justify-content: center;
     padding-bottom: 1.2rem;
 }
-.card-title{
+.card_title{
     border-bottom: 3px black solid;
     font-weight: 600;
     margin: 1rem;
@@ -48,7 +48,7 @@
     text-align: center;
 
 }
-.card-list{
+.card_list{
     text-decoration: none;
     list-style: none;
 
