@@ -1,6 +1,6 @@
 .hero{
     background-color: #FEFAF5;
-    padding: 4rem 0rem 4rem 8rem;
+    padding: 4rem 0rem 2rem 8rem;
     display: flex;
     align-items: center;
     gap: 15rem;
@@ -19,7 +19,7 @@
     color: #335576;
 }
 .hero__text-paragraph{
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     color: #335576;
     font-weight: 100;
 }
@@ -27,14 +27,14 @@
     background-color: #DB7A4E;
     border: none;
     width: 30%;
-    padding: .8rem;
+    padding: .7rem;
     color: white;
     border-radius: 1rem;
     word-wrap: nowrap;
 }
 .hero__logo-img {
-    width: 30%;
-    height: 40%;
+    width: 25%;
+    height: 35%;
 }
 
 .recommendations{
@@ -51,8 +51,8 @@
     gap: 4rem;
     white-space: nowrap;
     margin: 2rem;
-
 }
+
 .card{
     position: relative;
     width: 17rem;
