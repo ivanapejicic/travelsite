@@ -1,6 +1,6 @@
 .hero{
     background-color: #FEFAF5;
-    padding: 4rem 6rem 4rem 8rem;
+    padding: 4rem 0rem 4rem 8rem;
     display: flex;
     align-items: center;
     gap: 15rem;
@@ -41,10 +41,10 @@
     padding: 3rem 5rem;
     width: 100%;
 }
-.recommendations-title{
+.recommendations__title{
     color: #335576
 }
-.cards{
+.recommendations__cards{
     display: flex;
     align-items: center;
     justify-content: center;

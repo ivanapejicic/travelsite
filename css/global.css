@@ -60,12 +60,12 @@ a{
     white-space: nowrap;
     padding-bottom: 1rem;
 }
-.container{
+.footer__container{
     margin: 0rem;
     width: 20%;
     box-sizing: content-box;
 }
-.container-bigger{
+.footer__container--bigger{
     width: 40%;
     padding-left: 1rem;
 }
