@@ -19,6 +19,7 @@
 }
 .nav-logo{
     color: #335576;
+    font-weight: 600;
 }
 .nav-list{
     display: flex;
@@ -81,5 +82,5 @@ img{
 a{
     text-decoration: none;
     color: #5A5A5A;
-    font-weight: 100;
+    font-weight: 400;
 }

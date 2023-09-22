@@ -1,26 +1,29 @@
 .hero{
     background-color: #FEFAF5;
-    padding: 4rem 3rem;
+    padding: 4rem 6rem 4rem 8rem;
     display: flex;
-    justify-content: space-between;
+    align-items: center;
+    gap: 15rem;
     flex-wrap: wrap;
 }
-.hero-text{
-    width: 50%;
+.hero__text{
+    width: 30%;
+    height: 50%;
     display: flex;
     flex-direction: column;
-    gap: 1.5rem;
-    margin: 3rem 2rem 1rem 2rem;
+    text-align: left;
+    gap: 2rem;
+    margin: 5rem 1rem 1rem 4rem;
 }
-.hero-title, .recommendations-title{
+.hero__text-title, .recommendations-title{
     color: #335576;
 }
-.hero-paragraph{
-    font-size: .75rem;
+.hero__text-paragraph{
+    font-size: 1rem;
     color: #335576;
     font-weight: 100;
 }
-.hero-button{
+.hero__text-button{
     background-color: #DB7A4E;
     border: none;
     width: 30%;
@@ -29,9 +32,9 @@
     border-radius: 1rem;
     word-wrap: nowrap;
 }
-.hero-logo__img {
-    width: 22rem;
-    height: 15rem;
+.hero__logo-img {
+    width: 30%;
+    height: 50%;
 }
 
 .recommendations{
