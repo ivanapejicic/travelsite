@@ -17,6 +17,11 @@
     width: 100%;
     padding: .5rem 2rem;
 }
+a{
+    text-decoration: none;
+    color: #5A5A5A;
+    font-weight: 400;
+}
 .nav-logo{
     color: #335576;
     font-weight: 600;
@@ -78,9 +83,4 @@
 
 img{
     height: 1.5rem;
-}
-a{
-    text-decoration: none;
-    color: #5A5A5A;
-    font-weight: 400;
 }
