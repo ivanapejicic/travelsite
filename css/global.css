@@ -4,11 +4,9 @@
     padding: 0;
     margin: 0;
 }
-a{
-    text-decoration: none;
-    color: #5A5A5A;
-    font-weight: 100;
-}
+
+/* Navigation Bar */
+
 .nav-bar{
     background-color: #FFFFFF;
     display: flex;
@@ -16,7 +14,6 @@ a{
     align-items: baseline; 
     position: fixed;
     top: 0;
-    /* text-decoration: none; */
     width: 100%;
     padding: .5rem 2rem;
 }
@@ -29,8 +26,7 @@ a{
     display: flex;
     gap: 1rem;
 }
-
-.nav-item--underline{
+.nav-item--active{
     border-bottom: 2px solid #DB7A4E;
     padding-bottom: .3rem;
 }
@@ -79,4 +75,9 @@ a{
 }
 img{
     height: 1.5rem;
+}
+a{
+    text-decoration: none;
+    color: #5A5A5A;
+    font-weight: 100;
 }
