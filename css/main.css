@@ -19,7 +19,7 @@
     color: #335576;
 }
 .hero__text-paragraph{
-    font-size: 1rem;
+    font-size: 0.9rem;
     color: #335576;
     font-weight: 100;
 }
@@ -27,14 +27,14 @@
     background-color: #DB7A4E;
     border: none;
     width: 30%;
-    padding: .5rem;
+    padding: .8rem;
     color: white;
     border-radius: 1rem;
     word-wrap: nowrap;
 }
 .hero__logo-img {
     width: 30%;
-    height: 50%;
+    height: 40%;
 }
 
 .recommendations{
