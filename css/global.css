@@ -9,7 +9,7 @@ a{
     color: #5A5A5A;
     font-weight: 100;
 }
-.header{
+.nav-bar{
     background-color: #FFFFFF;
     display: flex;
     justify-content: space-between;
@@ -20,13 +20,11 @@ a{
     width: 100%;
     padding: .5rem 2rem;
 }
-.logo-top{
+.nav-logo{
     color: #335576;
 }
-.nav-top{
+.nav-list{
     display: flex;
-}
-.nav-top__list{
     list-style: none;
     display: flex;
     gap: 1rem;
