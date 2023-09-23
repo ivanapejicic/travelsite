@@ -33,7 +33,7 @@ a{
     display: flex;
     gap: 1rem;
 }
-.nav-item--active{
+.nav__list-item--active{
     border-bottom: 2px solid #DB7A4E;
     padding-bottom: .3rem;
 }
