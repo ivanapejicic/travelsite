@@ -50,16 +50,6 @@ a{
     padding: 3rem 2rem 3rem 10rem;
     margin: 0;
 }
-.bottom-title{
-    font-weight: 600;
-    padding-bottom: 1.5rem;
-}
-.bottom-subtitle{
-    color: #DB7A4E;
-    font-size: 0.7rem;
-    white-space: nowrap;
-    padding-bottom: 1rem;
-}
 .footer__container{
     margin: 0rem;
     width: 20%;
@@ -69,16 +59,26 @@ a{
     width: 40%;
     padding-left: 1rem;
 }
-.hours{
+.footer__container-title{
+    font-weight: 600;
+    padding-bottom: 1.5rem;
+}
+.footer__container-subtitle{
+    color: #DB7A4E;
+    font-size: 0.7rem;
+    white-space: nowrap;
+    padding-bottom: 1rem;
+}
+.footer__container-hours{
     display: flex;
     gap: 1rem;
     flex-wrap: wrap;
 }
-.logos{
+.footer__container-logos{
     display: flex;
     gap: 1.5rem;
 }
-.info{
+.footer__container-info{
     font-size: .9rem;
 }
 
