@@ -60,6 +60,7 @@ a{
     padding-left: 1rem;
 }
 .footer__container-title{
+    color: #335576;
     font-weight: 600;
     padding-bottom: 1.5rem;
 }
@@ -70,11 +71,13 @@ a{
     padding-bottom: 1rem;
 }
 .footer__container-hours{
+    color: #335576;
     display: flex;
     gap: 1rem;
     flex-wrap: wrap;
 }
 .footer__container-info{
+    color: #335576;
     font-size: .9rem;
 }
 .footer__container-logos{
