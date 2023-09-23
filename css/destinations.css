@@ -1,4 +1,4 @@
-.destinations-main{
+.dest-main{
     min-height: 80vh;
     min-width: 100vh;
     padding: 0;
@@ -16,7 +16,7 @@
 .main-greece{
     background-image: url('../assets/Images/greece.jpg');
 }
-.main-title{
+.dest-main__title{
     font-size: 5rem;
     color: white;
     font-weight: 600;
@@ -24,7 +24,7 @@
     padding: 3rem;
     
 }
-.cards{
+.dest-main__cards{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -32,7 +32,7 @@
     padding: 2rem 0 8rem 0;
 }
 
-.card{
+.dest-main__card{
     background-color: white;;
     display: flex;
     flex-direction: column;
@@ -40,7 +40,7 @@
     justify-content: center;
     padding-bottom: 1.2rem;
 }
-.card_title{
+.dest-main__card-title{
     border-bottom: 3px black solid;
     font-weight: 600;
     margin: 1rem;
@@ -48,12 +48,12 @@
     text-align: center;
 
 }
-.card_list{
+.dest-main__card-list{
     text-decoration: none;
     list-style: none;
 
 }
-.card-item{
+.dest-main__list-item{
     background-color: #FEFAF5;
     padding: 1rem 5rem;
     margin: 1rem;
